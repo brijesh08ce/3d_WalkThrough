@@ -1,0 +1,6 @@
+# Publish only the walkthrough; everything else in this folder stays local.
+*
+!.gitignore
+!.nojekyll
+!index.html
+!3bhk-walkthrough.html
